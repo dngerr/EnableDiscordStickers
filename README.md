@@ -1,5 +1,5 @@
 # How To Enable Discord Stickers
-Stickers only being available for people in canada is gay so here is how to enable discord stickers no matter where you are.
+Stickers only being available for people in canada is stupid so here is how to enable discord stickers no matter where you are.
 
 - Copy the script in the .js file to get the console command to enable the experiments menu. Press `CTRL + SHIFT + I` in discord (or `⌘COMMAND + SHIFT + I` if you use mac) to open the console. This won't work if you're on mobile. Paste the text from the .js file and hit enter.
 - Once you have run the script, go to your settings and scroll down until you find the experiments. ![yeah](https://github.com/dngerr/EnableDiscordStickers/blob/main/Images/ExperimentsMenu.png)
